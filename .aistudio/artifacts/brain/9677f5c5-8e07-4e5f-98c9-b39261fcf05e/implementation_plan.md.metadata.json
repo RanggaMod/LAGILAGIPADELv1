@@ -1,0 +1,6 @@
+{
+  "summary":  "Rencana implementasi modul Laman Admin Manajemen Turnamen untuk membuat, mengedit, menghapus turnamen, serta fitur quick switcher status pertandingan (Selesai, Akan Datang, Live) yang tersinkronisasi otomatis dengan aplikasi turnamen dan bagan visualizer.",
+  "updatedAt":  "2026-09-28T10:15:27.106371866Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
